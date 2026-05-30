@@ -1,11 +1,16 @@
-# Tahosin-project
-## 🚀 আমার গিটহাব লার্নিং জার্নি
+### Hi, I am [Your Name]! 👋
 
-গিটহাব (GitHub) শেখার জন্য এটি আমার একদম প্রথম প্রজেক্ট। 
+I am an aspiring **Web-Developer**. I am currently working in the world of web-technology and I love learning new things.
 
-### 🎯 আমার লক্ষ্য:
-* গিটহাবের বেসিক ফিচারগুলো শেখা।
-* কোনো কোডিং ছাড়া ফাইল ও প্রজেক্ট ম্যানেজ করা।
-* ফিউচারে বড় বড় অটোমেশন ও প্রজেক্টের ব্যাকআপ এখানে রাখা।
+**Some information about me:**
+- 🌱 I am currently working with **HTML, CSS, and JavaScript**.
+- 🚀 I am learning modern-technologies like **React and Node.js**.
+- 💬 You can discuss web-development or any technical-topic with me.
+- 📫 You can contact me at: [Your Email or Facebook Link]
 
-*ধাপে ধাপে শিখছি...* 😉
+**My Technical Skills:**
+- 💻 **Frontend:** HTML5, CSS3, JavaScript
+- 🛠 **Tools & Frameworks:** Git, GitHub, VS Code, Bootstrap, Tailwind-CSS
+
+---
+*“Coding is not just work, it is my passion.”*
