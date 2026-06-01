@@ -14,3 +14,4 @@ I am an aspiring **Web-Developer**. I am currently working in the world of web-t
 
 ---
 *“Coding is not just work, it is my passion.”*
+our skill is html, css, javascript, php, phython, larave, dejango tailwind css, react j\s vue js, angular js, express js , new js, node js
